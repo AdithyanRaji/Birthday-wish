@@ -57,7 +57,7 @@ export function Hero() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.8 }}
         >
-          To the Most Amazing Person
+          To you Chakareyy❤️😘😘💕💕
         </motion.p>
 
         <motion.div

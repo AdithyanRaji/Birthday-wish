@@ -115,7 +115,7 @@ export function CelebrationButton() {
               With all my love,
               <br />
               <span className="font-bold text-purple-600">
-                Forever Yours ❤️
+                Forever Yours AD10 ❤️
               </span>
             </p>
           </motion.div>
@@ -223,7 +223,8 @@ export function CelebrationButton() {
                   className="relative rounded-2xl overflow-hidden"
                 >
                   <ImageWithFallback
-                    src="https://images.unsplash.com/photo-1766910700596-f223aace45c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjdXRlJTIwY291cGxlJTIwc2VsZmllJTIwaGFwcHl8ZW58MXx8fHwxNzczNDI1NDUzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                    //src="https://images.unsplash.com/photo-1766910700596-f223aace45c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjdXRlJTIwY291cGxlJTIwc2VsZmllJTIwaGFwcHl8ZW58MXx8fHwxNzczNDI1NDUzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                    src="statics/pics/PHOTO 4.jpeg"
                     alt="Special birthday photo"
                     className="w-full h-auto"
                   />

@@ -12,7 +12,8 @@ export function MusicPlayer() {
 
   // Replace this URL with your music file
   // You can use a direct URL to an MP3 file or upload your own
-  const musicUrl = 'YOUR_MUSIC_URL_HERE.mp3';
+  //const musicUrl = 'YOUR_MUSIC_URL_HERE.mp3';
+  const musicUrl = 'statics/songmp3/songmp3.mpeg';
 
   useEffect(() => {
     const audio = audioRef.current;
@@ -92,10 +93,10 @@ export function MusicPlayer() {
               <Music className="w-12 h-12 text-purple-500 mx-auto mb-3" />
             </motion.div>
             <h3 className="text-2xl font-bold text-purple-700 mb-2">
-              Our Special Song
+              A special song for you😍😍
             </h3>
             <p className="text-gray-600">
-              Play this while you read ❤️
+              Play this while you read my love, My Love❤️
             </p>
           </div>
 
@@ -164,12 +165,8 @@ export function MusicPlayer() {
           </div>
 
           {/* Instructions */}
-          <div className="mt-6 p-4 bg-pink-50 rounded-xl border border-pink-200">
-            <p className="text-sm text-gray-600 text-center">
-              <span className="font-semibold text-purple-700">💡 Tip:</span> To add your own music, replace 
-              <code className="mx-1 px-2 py-1 bg-white rounded text-xs">YOUR_MUSIC_URL_HERE.mp3</code> 
-              in the MusicPlayer component with a link to your MP3 file
-            </p>
+          <div>
+            🎼🎶🎵🎶🎵🎶🎵🎼
           </div>
         </motion.div>
       </div>

@@ -4,25 +4,25 @@ import { Heart, Star, Sparkles, Sun } from 'lucide-react';
 const notes = [
   {
     icon: Heart,
-    title: 'You Make Every Day Brighter',
+    title: 'Chakarakunje, You Make Every Day Brighter',
     message:
       'Your smile is the sunshine that lights up my world. Thank you for being you.',
   },
   {
     icon: Star,
-    title: 'You Are My Star',
+    title: 'Muthumaniye, You Are My Star',
     message:
       'In a sky full of stars, you shine the brightest. You inspire me every single day.',
   },
   {
     icon: Sparkles,
-    title: 'Magic in Every Moment',
+    title: 'Meenukunjee, you are the magic in Every Moment',
     message:
       'With you, every ordinary moment becomes extraordinary. You bring magic to my life.',
   },
   {
     icon: Sun,
-    title: 'Forever Grateful',
+    title: 'Ponnukuttiyee, Forever Grateful for you',
     message:
       'I am so blessed to have you in my life. Here\'s to many more birthdays together!',
   },
