@@ -112,7 +112,7 @@ export function CelebrationButton() {
               friend."
             </p>
             <p className="mt-8 text-2xl">
-              With all my love,
+              With all my love, "vese iss 15 ko sb pe Meenu ki kirpa barse🙏🙇‍♂️🙏"
               <br />
               <span className="font-bold text-purple-600">
                 Forever Yours AD10 ❤️

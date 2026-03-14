@@ -58,6 +58,7 @@ export function Hero() {
           transition={{ delay: 0.8 }}
         >
           To you Chakareyy❤️😘😘💕💕
+          This March 15 let God bless you with all the happiness, strength and goodwill
         </motion.p>
 
         <motion.div
