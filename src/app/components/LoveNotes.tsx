@@ -38,7 +38,7 @@ export function LoveNotes() {
           viewport={{ once: true }}
           className="text-4xl md:text-5xl font-bold text-center mb-12 text-purple-700"
         >
-          What You Mean to Me 💝
+          The Meenu Magic 💝
         </motion.h2>
 
         <div className="grid md:grid-cols-2 gap-8">
