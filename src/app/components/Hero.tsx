@@ -58,9 +58,15 @@ export function Hero() {
           transition={{ delay: 0.8 }}
         >
           To you Chakareyy❤️😘😘💕💕
+        </motion.p>
+                <motion.p
+          className="text-2xl md:text-4xl text-purple-600 mb-8"
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ delay: 0.8 }}
+        >
           This March 15 let God bless you with all the happiness, strength and goodwill
         </motion.p>
-
         <motion.div
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
