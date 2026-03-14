@@ -4,17 +4,17 @@ import { ImageWithFallback } from './figma/ImageWithFallback';
 const photos = [
   {
   //src: 'https://images.unsplash.com/photo-1758874089420-ef03b31e595e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyb21hbnRpYyUyMGNvdXBsZSUyMGNlbGVicmF0aW9ufGVufDF8fHx8MTc3MzQyNDQxNnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-  src : "statics/pics/PHOTO 1.jpeg",  
+  src : "/statics/pics/PHOTO 1.jpeg",  
   caption: 'The zeal that ignites in your eyes',
   },
   {
     //src: 'https://images.unsplash.com/photo-1672243691196-9b7f64cce1c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaW5rJTIwcm9zZXMlMjBib3VxdWV0fGVufDF8fHx8MTc3MzQyMjIyM3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    src : "statics/pics/PHOTO 2.jpeg",
+    src : "/statics/pics/PHOTO 2.jpeg",
     caption: 'Elegance which emerges from your soul',
   },
   {
     //src: 'https://images.unsplash.com/photo-1764257416209-e2044659503f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxoZWFydCUyMGJhbGxvb25zJTIwY2VsZWJyYXRpb258ZW58MXx8fHwxNzczNDI0NDE3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    src : "statics/pics/PHOTO 3.jpeg",
+    src : "/statics/pics/PHOTO 3.jpeg",
     caption: 'Radiadting love and warmth',
   },
 ];

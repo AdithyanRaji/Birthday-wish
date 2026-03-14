@@ -45,7 +45,7 @@ export function BirthdayMessage() {
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
               <ImageWithFallback
                 //src="https://images.unsplash.com/photo-1616964524979-c08f6d87c7e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiaXJ0aGRheSUyMGNha2UlMjBjYW5kbGVzfGVufDF8fHx8MTc3MzM2Mjg4OXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-                src = "statics/pics/PHOTO 5.jpeg"
+                src = "/statics/pics/PHOTO 5.jpeg"
                 alt="Birthday cake with candles"
                 className="w-full h-auto"
               />

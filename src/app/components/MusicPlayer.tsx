@@ -13,7 +13,7 @@ export function MusicPlayer() {
   // Replace this URL with your music file
   // You can use a direct URL to an MP3 file or upload your own
   //const musicUrl = 'YOUR_MUSIC_URL_HERE.mp3';
-  const musicUrl = 'statics/songmp3/songmp3.mpeg';
+  const musicUrl = '/statics/songmp3/songmp3.mpeg';
 
   useEffect(() => {
     const audio = audioRef.current;
